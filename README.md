@@ -6,13 +6,6 @@ This project uses a premade application to showcase how to manage artifacts with
 
 Apply DevOps Skills to properly manage artifacts with Nexus.
 
-1. Create a remote server using a cloud provider.
-2. Configure that server for application requirements.
-3. Create Linux user on server to run application.
-4. Transfer local build Jar file to remote server.
-5. Deploy and run the build file on our remote server.
-6. Configure server firewall to allow inbound connections to port application is running on for TCP connections.
-
 ## Requirements
 
 Ensure that Java 17 and Gradle 8.11 are installed on the remote server.
